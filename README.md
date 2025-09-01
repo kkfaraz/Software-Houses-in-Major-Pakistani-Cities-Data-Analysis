@@ -144,5 +144,5 @@ Google Maps & Business Directories for raw data availability.
 Instant Data Scraper for assisting in semi-automated data collection.
 
 Open-source Python community for libraries powering this research.
-git clone https://github.com/YOUR-USERNAME/software-houses-pakistan.git
+git clone https://github.com/kkfaraz/Software-Houses-Major-Pakistan-Cities-Data-Analysis.git
 cd software-houses-pakistan
